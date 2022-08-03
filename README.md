@@ -15,4 +15,4 @@ Skills:  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguelandga
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelandga)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelandga)](https://github.com/anuraghazra/github-readme-stats)
