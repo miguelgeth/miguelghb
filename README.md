@@ -21,8 +21,7 @@ I have developed several projects that have made me grow in experience. I'm pass
 |---|---|
 
 
-## 📈My statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
