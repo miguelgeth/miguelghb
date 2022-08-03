@@ -39,3 +39,10 @@ Skills:  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelandga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelandga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
