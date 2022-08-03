@@ -6,7 +6,7 @@
 
 I have developed several projects that have made me grow in experience. I'm passionate about software development and all I can learn and discover in this industry. I really like to collaborate on projects and take the challenges to solve a problem that helps a cause and allows me to increase my skills!
 
-Skills:  REACT / JS / HTML / CSS/ TAILWIND CSS
+Skills:  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) / JS / HTML / CSS/ TAILWIND CSS
 
 - 🔭 I’m currently working on this page. 
 
