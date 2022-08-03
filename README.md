@@ -27,5 +27,5 @@ Skills:  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the
 
 
 ## 📈My statistics
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelandga&show_icons=true&theme=city_lights)](https://github.com/areyouivan/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=areyouivan&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelandga&show_icons=true&theme=city_lights)](https://github.com/miguelandga/github-readme-stats)|![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelandga&show_icons=true&theme=city_lights)|
 |---|---|
