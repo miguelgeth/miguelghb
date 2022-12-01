@@ -17,7 +17,7 @@ I have developed several projects that have made me grow in experience. I'm pass
 
 
 ## 📈My statistics
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelandga&show_icons=true&theme=city_lights)](https://github.com/miguelandga/github-readme-stats)|![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelandga&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelghb&show_icons=true&theme=city_lights)](https://github.com/miguelghb/github-readme-stats)|![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelghb&show_icons=true&theme=city_lights)|
 |---|---|
 
 
